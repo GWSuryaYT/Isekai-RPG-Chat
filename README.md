@@ -1,4 +1,4 @@
-#Rpg Chat Application
+# Rpg Chat Application
 
 ## Getting Started
 
